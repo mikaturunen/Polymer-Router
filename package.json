@@ -1,0 +1,34 @@
+{
+  "name": "Polymer-Router",
+  "version": "0.0.1",
+  "description": "Polymer HTML5 enabled UI router for single page applications",
+  "main": "router/polymer-router.html",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaturunen/Polymer-Router.git"
+  },
+  "keywords": [
+    "polymer",
+    "html5",
+    "pushstate",
+    "single",
+    "page",
+    "app",
+    "spa"
+  ],
+  "author": "Mika Turunen <mika.turunen@ymail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikaturunen/Polymer-Router/issues"
+  },
+  "homepage": "https://github.com/mikaturunen/Polymer-Router",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

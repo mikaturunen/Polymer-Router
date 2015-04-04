@@ -1,0 +1,32 @@
+{
+  "name": "Polymer-Router",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mikaturunen/Polymer-Router",
+  "authors": [
+    "Mika Turunen <mika.turunen@ymail.com>"
+  ],
+  "description": "Polymer HTML5 enabled UI router for single page applications",
+  "main": "router/polymer-router.html",
+  "keywords": [
+    "Polymer",
+    "UI",
+    "html5",
+    "pushstate",
+    "navigation",
+    "single",
+    "page",
+    "app",
+    "spa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.8.0-rc.2"
+  }
+}
